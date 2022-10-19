@@ -49,6 +49,8 @@ const memeLinksArray = [
   "https://i.redd.it/w77rmfxvmgs91.png",
   "https://i.redd.it/15u503zss3r91.jpg",
   "https://i.redd.it/0qp7mv5aqnl91.jpg",
+  "https://i.redd.it/k74yrtmiisf91.png",
+  "https://i.redd.it/rt1tn4wrr1081.jpg"
 ];
 
 
