@@ -1,4 +1,9 @@
-# List of links
+## To run the solution on your system, download this repo on your computer, open that downloaded folder in a new VSCode window and type `npm install` in your terminal. 
+
+**Note** ***: The `npm install` command will only work in a javascript or a typecript project that has a `package.json` file***
+
+You can check out the solutions' output by typing `node solution.js` in the terminal of that downloaded repos' folder
+<!-- # List of links
 ```javascript
 const memeLinksArray = [
   "https://i.redd.it/i4e5bpo46ru91.jpg",
@@ -33,4 +38,4 @@ const memeLinksArray = [
 ];
 
 
-```
+``` -->
